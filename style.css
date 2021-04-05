@@ -18,6 +18,10 @@ ul{
     display: flex;
     align-items: center;
 }
+H1{
+padding-left:200;
+color:#666;
+}
 li{
     padding-left: 70;
     list-style: none;
