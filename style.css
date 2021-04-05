@@ -95,11 +95,12 @@ button:hover{
 
 .num1{
      margin-top: 29;
-    background-color: white;
+    background-color: #B0E0E6;
     display: flex;
     justify-content:flex-start;
     align-items:center;
  transition: 6s;
+
 }
 .title{
     padding-right:10;
